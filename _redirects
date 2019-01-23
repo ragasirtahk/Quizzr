@@ -1,0 +1,36 @@
+/quizzes/tcsitwiz/ /quizzes/tcs-it-wiz-questions-and-answers/ 301
+/quizzes/techquiz/ /quizzes/tech-quiz/ 301
+/quizzes/bizquiz/ /quizzes/biz-quiz-questions/ 301
+/quizzes/2017/ /quizzes/2017-quiz-questions/ 301
+/quizzes/preparationmaterial/ /quizzes/preparation-material/ 301
+/quizzes/biz-quiz-questions/questions/ /quizzes/biz-quiz-questions/ 301
+/quizzes/tcs-it-wiz-questions-and-answers/-questions-and-answers/ /quizzes/tcs-it-wiz-questions-and-answers/ 301
+/quizzes/tcsitwiz/*  /quizzes/tcs-it-wiz-questions-and-answers/:splat
+/quizzes/techquiz/*  /quizzes/tech-quiz/:splat
+/quizzes/bizquiz/*  /quizzes/biz-quiz-questions/:splat
+/quizzes/2017/*  /quizzes/2017-quiz-questions/:splat
+/quizzes/preparationmaterial/*  /quizzes/preparation-material/:splat 301
+/best-of-tech-and-it-quizzes-1/ /best-questions-of-tech-and-it-quizzes-1/ 301
+/best-of-tech-and-it-quizzes-2/ /best-questions-of-tech-and-it-quizzes-2/ 301
+/best-of-tech-and-it-quizzes-3/ /best-questions-of-tech-and-it-quizzes-3/ 301
+/best-of-tech-and-it-quizzes-4/ /best-questions-of-tech-and-it-quizzes-4/ 301
+/best-of-tech-and-it-quizzes-5/ /best-questions-of-tech-and-it-quizzes-5/ 301
+/best-of-tech-and-it-quizzes-6/ /best-questions-of-tech-and-it-quizzes-6/ 301
+/amp/quizzes/tcsitwiz/ /amp/quizzes/tcs-it-wiz-questions-and-answers/ 301
+/amp/quizzes/techquiz/ /amp/quizzes/tech-quiz/ 301
+/amp/quizzes/bizquiz/ /amp/quizzes/biz-quiz-questions/ 301
+/amp/quizzes/2017/ /amp/quizzes/2017-quiz-questions/ 301
+/amp/quizzes/preparationmaterial/ /amp/quizzes/preparation-material/ 301
+/amp/quizzes/biz-quiz-questions/questions/ /amp/quizzes/biz-quiz-questions/ 301
+/amp/quizzes/tcs-it-wiz-questions-and-answers/-questions-and-answers/ /amp/quizzes/tcs-it-wiz-questions-and-answers/ 301
+/amp/quizzes/tcsitwiz/*  /amp/quizzes/tcs-it-wiz-questions-and-answers/:splat
+/amp/quizzes/techquiz/*  /amp/quizzes/tech-quiz/:splat
+/amp/quizzes/bizquiz/*  /amp/quizzes/biz-quiz-questions/:splat
+/amp/quizzes/2017/*  /amp/quizzes/2017-quiz-questions/:splat
+/amp/quizzes/preparationmaterial/*  /amp/quizzes/preparation-material/:splat 301
+/amp/best-of-tech-and-it-quizzes-1/ /amp/best-questions-of-tech-and-it-quizzes-1/ 301
+/amp/best-of-tech-and-it-quizzes-2/ /amp/best-questions-of-tech-and-it-quizzes-2/ 301
+/amp/best-of-tech-and-it-quizzes-3/ /amp/best-questions-of-tech-and-it-quizzes-3/ 301
+/amp/best-of-tech-and-it-quizzes-4/ /amp/best-questions-of-tech-and-it-quizzes-4/ 301
+/amp/best-of-tech-and-it-quizzes-5/ /amp/best-questions-of-tech-and-it-quizzes-5/ 301
+/amp/best-of-tech-and-it-quizzes-6/ /amp/best-questions-of-tech-and-it-quizzes-6/ 301

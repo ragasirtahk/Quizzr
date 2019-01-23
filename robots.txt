@@ -1,0 +1,3 @@
+Sitemap: https://www.quizzr.tech/sitemap.xml
+User-agent: *
+Disallow:
